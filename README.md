@@ -15,3 +15,10 @@ You can access the dataset here: https://data.cityofnewyork.us/Public-Safety/Mot
 <p align="center">
   <img src="assest/NYC_vehcile_collisions.png" />
 </p>
+
+These insights are found after analysis:
+- In traffic accidents, injuries outnumber fatalities, and males tend to experience more harm and fatalities than females. The majority of individuals who reported discomfort attributed it to pain or nausea.
+- When accidents happen, most individuals remain inside the vehicle due to seatbelt use and consciousness, which is a positive indication. 
+- Drivers are particularly susceptible, facing more bodily injuries than pedestrians and passengers. Injuries to the back, neck, and knees are prevalent among drivers.
+- Car accidents are prevalent in all directions between 2 and 4 a.m., and the frequency increases over time, peaking between 3 and 5 p.m. Subsequently, accident rates decrease after the evening hours. 
+- Notably, the months of May and June in 2021 have the highest likelihood of being associated with a vehicular accident.
