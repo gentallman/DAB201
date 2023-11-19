@@ -16,6 +16,8 @@ You can access the dataset here: https://data.cityofnewyork.us/Public-Safety/Mot
   <img src="assest/NYC_vehcile_collisions.png" />
 </p>
 
+Dashboard Link : https://public.tableau.com/app/profile/smit.rana6369/viz/NYC_vehcile_collisions/Dashboard1
+
 These insights are found after analysis:
 - In traffic accidents, injuries outnumber fatalities, and males tend to experience more harm and fatalities than females. The majority of individuals who reported discomfort attributed it to pain or nausea.
 - When accidents happen, most individuals remain inside the vehicle due to seatbelt use and consciousness, which is a positive indication. 
