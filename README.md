@@ -1,5 +1,4 @@
-<p align="center">
-  <h1>Analysis of New York City's Motor Vehicle Collisions with Person</h1>
+<h1 align="center">New York City's Motor Vehicle Collisions Analysis/h1>
 </p>
 
 - In urban areas, traffic accidents stand as a leading cause of injury and fatality, involving collisions between pedestrians, motor vehicles, and other road users like cyclists. 
@@ -24,3 +23,13 @@ These insights are found after analysis:
 - Drivers are particularly susceptible, facing more bodily injuries than pedestrians and passengers. Injuries to the back, neck, and knees are prevalent among drivers.
 - Car accidents are prevalent in all directions between 2 and 4 a.m., and the frequency increases over time, peaking between 3 and 5 p.m. Subsequently, accident rates decrease after the evening hours. 
 - Notably, the months of May and June in 2021 have the highest likelihood of being associated with a vehicular accident.
+
+## Contact
+
+Author: Smit Rana
+
+LinkedIn: https://www.linkedin.com/in/smit98rana/
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
