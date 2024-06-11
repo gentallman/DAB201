@@ -1,5 +1,5 @@
-<h1 align="center">New York City's Motor Vehicle Collisions Analysis/h1>
-</p>
+<h1 align="center">New York City's Motor Vehicle Collisions Analysis</h1>
+
 
 - In urban areas, traffic accidents stand as a leading cause of injury and fatality, involving collisions between pedestrians, motor vehicles, and other road users like cyclists. 
 
